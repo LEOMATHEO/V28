@@ -1,0 +1,20 @@
+{
+  "name": "⚡ ROSELY v28 — Tabela vazia (estilo v24)",
+  "short_name": "ROSELY v28",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
